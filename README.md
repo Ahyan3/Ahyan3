@@ -39,7 +39,7 @@
 | **⌨️ Typing** | 48 WPM • 100% |
 | **💼 Portfolio** | [Visit ↗](https://ahyanportfolio.netlify.app) |
 | **🎯 Goal** | Full-Stack Developer |
-| **Resume** | Last Year Update |
+| **Made on** | 2025 |
 
 </td>
 </tr>
@@ -135,17 +135,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=Ahyan3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahyan3&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
@@ -159,6 +155,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahyan-romano-ph)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahyan3)
 
+</div>
+
+---
+
+## 🎧 Currently Vibing To
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xpsbalaiqptpictpvc3zaewzwi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify now playing" />
+  </a>
 </div>
 
 ---
