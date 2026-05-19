@@ -39,11 +39,24 @@
 | **⌨️ Typing** | 48 WPM • 100% |
 | **💼 Portfolio** | [Visit ↗](https://ahyanportfolio.netlify.app) |
 | **🎯 Goal** | Full-Stack Developer |
+| **Resume** | Last Year Update |
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahyan3/Ahyan3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahyan3/Ahyan3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahyan3/Ahyan3/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -59,13 +72,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌐 Frontend
+### 🌐 Frontend, Backend & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### ⚙️ Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -83,13 +94,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🎨 Design
+### 🎨 Design & 📋 Productivity
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Capcut](https://img.shields.io/badge/Capcut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-
-### 📋 Productivity
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
@@ -127,18 +136,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahyan3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahyan3/Ahyan3/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahyan3/Ahyan3/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahyan3/Ahyan3/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 ---
 
