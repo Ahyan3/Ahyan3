@@ -135,13 +135,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahyan3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahyan3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  </picture>
 </div>
 
 ---
