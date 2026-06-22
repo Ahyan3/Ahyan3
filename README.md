@@ -27,7 +27,7 @@
 | **📍** | Camarines Norte, PH 🇵🇭 |
 | **🎓** | BS Computer Science |
 | **🏫** | Mabini Colleges, Inc. |
-| **📅** | Graduating 2026 |
+| **📅** | Graduate 2026 |
 
 </td>
 <td width="50%">
