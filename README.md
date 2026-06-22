@@ -8,7 +8,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahyan3&label=Profile%20Views&color=00C2FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Ahyan3?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/badge/Portfolio-ryanfrancisromanov2.netlify.app-00C2FF?style=flat&logo=netlify" alt="Portfolio" />
+  <a href="https://ryanfrancisromanov2.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ryanfrancisromanov2.netlify.app-00C2FF?style=flat&logo=netlify" alt="Portfolio" />
+  </a>
 </div>
 
 ---
